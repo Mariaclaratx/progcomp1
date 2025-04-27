@@ -40,7 +40,7 @@ function calcular(){
             soma = soma + (sangue * 20)
         }
     }
-    else if (equipe == "Preta"){
+    else if (equipe == "Preta"){ 
 
     }
     else if (equipe == "Roxa"){
